@@ -1,7 +1,5 @@
 # Hi there 👋
 
-![Metrics](https://gist.github.com/ncpenke/8c05dac53df93ef172c12cc40d9142cb/raw/github-metrics.svg)
-
 <!--
 **ncpenke/ncpenke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
